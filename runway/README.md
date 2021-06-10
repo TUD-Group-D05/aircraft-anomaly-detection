@@ -24,3 +24,16 @@ The outliers file follows the same name style as the figures
 	The outliers found by analysing 57 flights with a 2 times standard deviation on runway 14.
 
 # Code 
+The code is contained in three files: "backend.py", "glideslope_backend.py" and "glideslope.py"
+
+"backend.py"
+Contains functions that are required for the general workings of the code
+
+"glideslope_backend.py"
+Contains functions and classes that are specific to the glideslope analysis
+
+"glideslope.py"
+Contains the actual execution of the code, using "backend.py" and "glideslope_backend.py"
+
+Comment:
+The difference between "backend.py" and "glideslope_backend.py" is very subjective and an artefact of previous code organisation. This should be revised
