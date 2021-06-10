@@ -1,0 +1,10 @@
+flight_id vertical speed track all 
+AFR67FP_926 False False False False 
+DAL408_20845 True False False False 
+EDW403_7967 False False False False 
+EDW93S_13910 False False False False 
+EDW93S_8091 False False False False 
+OAW9401_5438 False False False False 
+PAV500_1030 False False False False 
+SWR345_9500 False False False False 
+VDA2457_200 False False False False 
