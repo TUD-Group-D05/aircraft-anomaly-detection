@@ -1,0 +1,2 @@
+flight_id vertical speed track all 
+AFR67FP_926 False False False False 

@@ -1,0 +1,5 @@
+flight_id vertical speed track all 
+2KYCM_3248 False False False False 
+9AJIM_19708 False False False False 
+9HMBJ_19536 False False False False 
+A7AAH_071 False False False False 
