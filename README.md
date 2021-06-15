@@ -5,7 +5,7 @@ This repository contains code developed as part of the project Test, Analysis an
 
 In this project, several methods were used to detect anomalies and the code used for those can be found in their respective subfolders:
 
-- [Runway](https://github.com/TUD-Group-D05/aircraft-anomaly-detection/tree/main/runway)
-- [Data Points](https://github.com/TUD-Group-D05/aircraft-anomaly-detection/tree/main/data-points)
-- [Convolutional Neural Network](https://github.com/TUD-Group-D05/aircraft-anomaly-detection/tree/main/cnn)
-- [DBSCAN (1)](https://github.com/TUD-Group-D05/aircraft-anomaly-detection/tree/main/dbscan) and [DBSCAN (2)](https://github.com/TUD-Group-D05/aircraft-anomaly-detection/tree/main/overlap)
+- [Runway](runway/)
+- [Data Points](data-points/)
+- [Convolutional Neural Network](cnn/)
+- [DBSCAN](dbscan/) and [Overlap](overlap/)
