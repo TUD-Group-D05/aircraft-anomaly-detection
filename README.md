@@ -9,3 +9,6 @@ In this project, several methods were used to detect anomalies and the code used
 - [Data Points](data-points/)
 - [Convolutional Neural Network](cnn/)
 - [DBSCAN](dbscan/) and [Overlap](overlap/)
+
+## Report
+Read the final project report [here](Group_D05_Research_Report.pdf).
